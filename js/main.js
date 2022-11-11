@@ -6,6 +6,7 @@ const c1 = createCanvas({
   height: $(window).height(),
 });
 
+
 const tela = c1.canvas;
 const canvas = c1.context;
 
